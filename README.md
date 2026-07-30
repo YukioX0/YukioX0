@@ -163,8 +163,8 @@
   <a href="https://yukiox0.github.io/portfolio"><img src="https://img.shields.io/badge/View_My_Portfolio-4a9eff?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=8892a8&center=true&vCenter=true&width=500&lines=Built+with+passion+and+lots+of+coffee+☕" alt="Typing" />
+<p align="center">
+  <sub>✦ Built with passion and lots of coffee ☕ ✦</sub>
 </p>
 
 </div>
