@@ -128,51 +128,6 @@
 
 <div align="center">
 
-### ✦ Experience ✦
-
-</div>
-
-<br>
-
-<div align="center">
-
-| Company | Role | Duration |
-|---------|------|----------|
-| EME (Electro Mech Global) & OSDA | SAP ABAP Trainee | May 2026 – Jun 2026 |
-| ITR DRDO Chandipur | Intern — Encryp-T Project | Jun 2025 – Jul 2025 |
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ✦ Achievements ✦
-
-</div>
-
-<br>
-
-<div align="center">
-
-🏆 **Winner** — Inter-College Robotics Competitions (Robo-Sumo, Robo-Deathrace, Robo-Soccer, Line Follower)
-
-🎯 **Chief Student Coordinator** — INSPRANO 2K25 Technical Fest
-
-🤖 **President** — Kilobots Robotics Club (2025–2026)
-
-🥈 **2nd Runner-Up** — BPUT Tech Carnival 2025 Robotics Competition
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 ### ✦ GitHub Stats ✦
 
 </div>
