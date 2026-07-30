@@ -137,12 +137,12 @@
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YukioX0&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile" alt="GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioX0&layout=compact&theme=tokyonight&hide=css,html&langs_count=8" alt="Top Languages" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api?username=YukioX0&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile" alt="GitHub Stats" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YukioX0&layout=compact&theme=tokyonight&hide=css,html&langs_count=8" alt="Top Languages" height="190" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YukioX0&theme=tokyonight" alt="GitHub Streak" height="190" />
+  <img src="https://streak-stats.demolab.com/?user=YukioX0&theme=tokyonight" alt="GitHub Streak" height="190" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YukioX0&theme=tokyonight&line=7c5cfc&point=4a9eff&area=true&hide_border=true" alt="Activity Graph" height="190" />
 </p>
 
