@@ -2,12 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a1f35,100:1a1f35&height=200&section=header&text=Hi,%20I'm%20Yukio!&fontSize=70&fontAlignY=40&fontColor=4a9eff" alt="Header" />
 
-<p>
-  <img src="https://img.shields.io/badge/SAP_ABAP-Consultant-4a9eff?style=flat-square&logo=sap&logoColor=white" alt="SAP ABAP"/>
-  <img src="https://img.shields.io/badge/Software-Developer-7c5cfc?style=flat-square&logo=code&logoColor=white" alt="Software Developer"/>
-  <img src="https://img.shields.io/badge/ML-Enthusiast-00d4ff?style=flat-square&logo=python&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/Full_Stack-Builder-ff6b6b?style=flat-square&logo=react&logoColor=white" alt="Full Stack"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=700&lines=SAP+ABAP+Consultant;Software+Developer;ML+Enthusiast;Full+Stack+Builder" alt="Typing SVG" />
 
 <br>
 
