@@ -119,8 +119,6 @@
 |---------|-----------|-------------|
 | [Pharma Inventory System](https://github.com/YukioX0/Pharma-Inventory-Sales-Management-System-using-SAP-ABAP) | SAP ABAP, ALV Reports, Adobe Forms | End-to-end Medical Store Management with CRUD, inventory monitoring & expiry alerts |
 | [DPDR](https://github.com/YukioX0/DPDR) | Python, Scikit-learn, Flask | Disease Prediction & Doctor Recommendation with 95% accuracy on 4,920 records |
-| [Portfolio](https://github.com/YukioX0/portfolio) | HTML, CSS, JavaScript | This cool portfolio website with parallax stars effect |
-| [Insprano](https://github.com/YukioX0/Insprano) | Web Development | Techfest 2K25 official website |
 
 <br>
 
